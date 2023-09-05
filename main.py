@@ -11,8 +11,4 @@ def model(x):
     pass
 
 # This is model training code
-
-def feature_engg(y):
-    # feature engineering code
-    pass
     
